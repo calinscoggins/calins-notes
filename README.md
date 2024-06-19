@@ -1,2 +1,1 @@
-# calins-notes
-Calin's Notes
+# Calin's Notes
